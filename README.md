@@ -6,7 +6,6 @@ Bütçe Takip Uygulaması, kişisel harcamalarınızı takip etmek ve bütçeniz
 
 - **Harcama Ekleme**: Kullanıcılar harcamalarını kolayca ekleyebilir.
 - **Bütçe Yönetimi**: Kullanıcılar bütçelerini belirleyip, bu bütçeyi izleyebilirler.
-- **Görsel Raporlama**: Harcamalarınızı grafiklerle görselleştirir.
 - **Harcama Kategorileri**: Harcamalarınızı farklı kategorilere ayırarak daha iyi analiz yapabilirsiniz.
 
 ## Kullanım
